@@ -1,0 +1,6 @@
+{
+  "name": "LaTeX Polisher AI",
+  "description": "An AI-powered application to refine rough LaTeX notes and articles, correcting grammar and improving clarity for mathematical and scientific texts using Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
